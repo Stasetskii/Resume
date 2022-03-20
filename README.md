@@ -1,4 +1,4 @@
-![](https://github.com/Stasetskii/Resume/blob/main/img/IMG_20190521_101549.jpg)
+![](img/IMG_20190521_101549.jpg)
 
 
 # Волков Станислав.
